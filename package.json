@@ -1,0 +1,14 @@
+{
+  "name": "healthpulse-fit-monorepo",
+  "version": "1.0.0",
+  "description": "HealthPulse & Fit - Full-Stack MERN Healthcare & Fitness Platform",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "start:backend": "npm --prefix backend start"
+  },
+  "keywords": ["mern", "fitness", "healthcare", "nutrition", "tailwind", "react", "mongodb", "ai"],
+  "author": "HealthPulse & Fit Team",
+  "license": "MIT"
+}
